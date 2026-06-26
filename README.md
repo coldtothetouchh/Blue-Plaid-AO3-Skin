@@ -1,6 +1,6 @@
 # Blue-Plaid-AO3-Skin
 
-This is the non-byler version of my talk to me sweet AO3 skin.
+This is the non-byler version of my [talk to me sweet](https://github.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin) AO3 skin.
 
 If you have any feedback or run into any issues with the skin, please message me on twitter! (same username)
 
